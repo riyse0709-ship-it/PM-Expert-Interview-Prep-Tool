@@ -1,0 +1,6 @@
+{
+  "name": "Expert PM",
+  "description": "An elite interview intelligence coach for Product Manager candidates to crack interviews at top-tier tech companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
